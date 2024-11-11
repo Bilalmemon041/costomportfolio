@@ -8,9 +8,9 @@ const Hero = () => {
        <div>
           
          <section id="section1">
-            {/* left section      */}
+            {/* left section*/}
              <div>
-               <h3 id="h3">Hi, I'm <span className="text-orange-700">Bilal Ashrafi</span></h3>
+               <h3 id="h3">Hi, I m <span className="text-orange-700">Bilal Ashrafi</span></h3>
                <h1 id="h1">WEB <span className="text-orange-700 ">DEVELOPER</span></h1>
                <p id="para">Web Developer From Karachi,Pakistan. I Create <br />
                    Website To Do Business Do Better <br />
